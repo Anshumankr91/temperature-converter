@@ -1,0 +1,34 @@
+header{
+    text-align: center;
+    font-size: 40px;
+}
+body{
+    padding: 30px 40px;
+}
+.container{
+    text-align: center;
+    padding: 50px;
+    background-color: aqua;
+}
+.input-div{
+    display:inline-block;
+    padding: 30px;
+}
+#cel{
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 30px;
+    text-align: center;
+}
+.new-fra{
+    font-size: 30px;
+    text-align: center;
+}
+#fra{
+        padding: 10px 20px;
+     border-radius: 10px;
+}
+label{
+    font-size: large;
+    font-weight: 600;
+}
